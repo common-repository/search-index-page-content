@@ -1,0 +1,99 @@
+# Copyright (C) 2014 Search & Index Page Content
+# This file is distributed under the same license as the Search & Index Page Content package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Search & Index Page Content 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/search-index-page-content\n"
+"POT-Creation-Date: 2014-08-08 22:40:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-12-11 09:57+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. #-#-#-#-#  plugin.pot (Search & Index Page Content 1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: search-index-page-content.php:85
+msgid "Search & Index Page Content"
+msgstr "Contenido de Búsqueda e Índice de Página"
+
+#: search-index-page-content.php:86
+msgid "Creates links to headers of a page for easy navigation."
+msgstr ""
+"Crea enlaces a los encabezados de una página para una fácil navegación."
+
+#: search-index-page-content.php:94 search-index-page-content.php:96
+#: search-index-page-content.php:118 search-index-page-content.php:120
+msgid "on"
+msgstr "el"
+
+#: search-index-page-content.php:95 search-index-page-content.php:119
+msgid "Search this page"
+msgstr "Buscar esta página"
+
+#: search-index-page-content.php:97 search-index-page-content.php:121
+msgid "Page Contents"
+msgstr "Contenidos de la Página"
+
+#: search-index-page-content.php:104
+msgid "Search"
+msgstr "Buscar"
+
+#: search-index-page-content.php:130
+msgid "Show search field?"
+msgstr "¿Mostrar campo de búsqueda?"
+
+#: search-index-page-content.php:134
+msgid "Search field placeholder text:"
+msgstr "Buscar texto del marcador de posición del campo:"
+
+#: search-index-page-content.php:149
+msgid "Show contents index links?"
+msgstr "¿Mostrar enlaces de índice de contenidos?"
+
+#: search-index-page-content.php:153
+msgid "Index links title:"
+msgstr "Título de enlaces de índice:"
+
+#: search-index-page-content.php:160
+msgid "INSTRUCTIONS"
+msgstr "INSTRUCCIONES"
+
+#: search-index-page-content.php:161
+msgid ""
+"This widget will only appear on pages or posts when you surround the content "
+"to index or search with the shortcode as such:"
+msgstr ""
+"Este widget solo aparecerá en páginas o posts cuando usted envuelva el "
+"contenido al índice o búsqueda con el código corto como sigue:"
+
+#: search-index-page-content.php:162
+msgid "This content will be searchable and/or indexed"
+msgstr "Este contenido será buscable y/o indexable"
+
+#. Plugin URI of the plugin/theme
+msgid "http://adaldesign.com/2013/09/search-and-index-page-content/"
+msgstr "http://adaldesign.com/2013/09/search-and-index-page-content/"
+
+#. Description of the plugin/theme
+msgid ""
+"Help visitors browse the content of very big pages by providing on-page "
+"search and contextual links to jump to the content they are interested in. "
+"This plugin allows you to save the trouble of creating anchor links by "
+"providing shortcodes and widgets that can be placed on any post or page."
+msgstr ""
+"Ayuda a visitantes a mostrar el contenido de páginas muy grandes proveyendo "
+"búsqueda en la página y los enlaces contextuales para saltar al contenido "
+"que están interesados. Este plugin le permite evitarse el problema de crear "
+"códigos cortos  y widgets que pueden ser posicionados en cualquier post o "
+"página."
+
+#. Author of the plugin/theme
+msgid "ADALDESIGN"
+msgstr "ADALDESIGN"
+
+#. Author URI of the plugin/theme
+msgid "http://adaldesign.com"
+msgstr "http://adaldesign.com"
